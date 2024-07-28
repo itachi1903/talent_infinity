@@ -479,7 +479,7 @@ header {
         min-height: fit-content;
     }
 }
-@media screen and (min-width:1800px) {
+@media screen and (min-width:2000px) {
     .first {
         max-height: 1000px;
     }
