@@ -471,9 +471,6 @@ header {
         background-position: center;
         background-size: cover;
     }
-    .card-can {
-        width: 70%;
-    }
     .fourth {
         height: fit-content;
         min-height: fit-content;
